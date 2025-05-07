@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "fr.monkeystudio.mybusgeneric",
+        "sha256_cert_fingerprints": [
+          "FB:7B:7F:32:BC:F6:0B:3B:25:C3:15:31:01:38:32:5B:F4:92:91:8A:93:28:28:E5:29:06:00:86:19:4B:15:89"
+        ]
+      }
+    }
+  ]
